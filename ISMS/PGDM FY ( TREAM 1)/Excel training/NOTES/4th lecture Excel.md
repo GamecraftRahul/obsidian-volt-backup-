@@ -1,0 +1,5 @@
+- IF condition =IF(OR([logic 1],[logic 2],true , false)
+- changing the style of the table in Astatic/ formal coloring = Ctrl + T
+- table designee for Customizing the table  with UI Style of table 
+- for connect 2 names = = CONCAT(A2," ",B2)   , =CONCATENATE(A2," ",B2),  =A2&" "&B2
+- 
