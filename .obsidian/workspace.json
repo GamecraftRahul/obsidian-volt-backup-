@@ -1,0 +1,303 @@
+{
+  "main": {
+    "id": "dc2fc44f9b460921",
+    "type": "split",
+    "children": [
+      {
+        "id": "375a9a1c409b92d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b033f26bfc9064f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ISMS/PGDM FY ( TREAM 1)/statistic/CLG SOURCE/mean median mode formulas.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "mean median mode formulas"
+            }
+          },
+          {
+            "id": "c09f6d955e049e8b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ISMS/PGDM FY ( TREAM 1)/statistic/CLG SOURCE/Continuous_Frequency_Examples_Arithmetic_Mean.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Continuous_Frequency_Examples_Arithmetic_Mean"
+            }
+          },
+          {
+            "id": "a7cd024bd66215f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ISMS/PGDM FY ( TREAM 1)/marketing/NOTES/1st marketing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1st marketing"
+            }
+          },
+          {
+            "id": "6128c2c50c52637c",
+            "type": "leaf",
+            "state": {
+              "type": "hearth-home-view",
+              "state": {},
+              "icon": "hearth-crystal",
+              "title": "Home"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "747f533d3798cce8",
+    "type": "split",
+    "children": [
+      {
+        "id": "40633a66ab2a89fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99a9650b69beb871",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c662439ee92e9e5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "84cc2f573ad29f4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da83195fdc5655fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "332d3f1fc6a7d8c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd087a60046f7e6c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ISMS/Statistics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d4f84e46f10d8685",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ISMS/Excel training/2nd lecture Excel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f242c2bf4d674c7f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "165c1f038acd36d0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "336f007d95b38811",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "e27e59c9a06f3d23",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "be3df80c57464930",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "callout-manager:Insert Callout": false,
+      "hearth:Open Hearth home": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "6128c2c50c52637c",
+  "lastOpenFiles": [
+    "ISMS/PGDM FY ( TREAM 1)/marketing/CLG SOURCE/~$POM U-1.pptx",
+    "ISMS/PGDM FY ( TREAM 1)/marketing/NOTES/1st marketing.md",
+    "ISMS/PGDM FY ( TREAM 1)/marketing/CLG SOURCE/WhatsApp Image 2026-08-14 at 7.57.15 AM (1).jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/marketing/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.39.58 AM.jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/marketing/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.39.56 AM (2).jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/marketing/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.39.56 AM.jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/marketing/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.39.55 AM (3).jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/marketing/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.39.55 AM (2).jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/marketing/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.39.55 AM (1).jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/marketing/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.39.55 AM.jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/marketing/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.39.54 AM (1).jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/marketing/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.39.54 AM (2).jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/marketing/NOTES/Marketing Syllabus.md",
+    "ISMS/PGDM FY ( TREAM 1)/statistic/CLG SOURCE/Continuous_Frequency_Examples_Arithmetic_Mean.pdf",
+    "ISMS/PGDM FY ( TREAM 1)/statistic/CLG SOURCE/Discrete_Frequency_Examples_Arithmetic_Mean.pdf",
+    "ISMS/PGDM FY ( TREAM 1)/statistic/CLG SOURCE/Interesting_Examples_Individual_Observation_Mean.pdf",
+    "ISMS/PGDM FY ( TREAM 1)/statistic/NOTES/statistics 101.md",
+    "ISMS/PGDM FY ( TREAM 1)/statistic/CLG SOURCE/mean_median_mode_practice_probs.pdf",
+    "ISMS/PGDM FY ( TREAM 1)/statistic/CLG SOURCE/~$siness Statistics Syllabus.docx",
+    "ISMS/PGDM FY ( TREAM 1)/business analysis/CLG source and practice/Book1 (1).xlsx",
+    "ISMS/PGDM FY ( TREAM 1)/business analysis/CLG source and practice/Book1.xlsx",
+    "ISMS/PGDM FY ( TREAM 1)/business analysis/CLG source and practice/BA 101 (1).xlsx",
+    "ISMS/PGDM FY ( TREAM 1)/business analysis/CLG source and practice/BA 101.xlsx",
+    "ISMS/PGDM FY ( TREAM 1)/statistic/NOTES/4th unit.md",
+    "ISMS/PGDM FY ( TREAM 1)/statistic/NOTES/syllabus with main pointes.md",
+    "ISMS/PGDM FY ( TREAM 1)/marketing/NOTES/marketing 1-09-2026.md",
+    "case studeys/1 st  aishwarya.md",
+    "playbook/3rd . wing man.md",
+    "playbook/2nd . i am Ginny.md",
+    "ISMS/PGDM FY ( TREAM 1)/Excel training/NOTES/4th lecture Excel.md",
+    "ISMS/PGDM FY ( TREAM 1)/Excel training/NOTES/2nd lecture Excel.md",
+    "ISMS/PGDM FY ( TREAM 1)/business analysis/NOTES/business analysis Ch1.md",
+    "ISMS/PGDM FY ( TREAM 1)/HR & OB/NOTES/OB 1-09-26.md",
+    "ISMS/PGDM FY ( TREAM 1)/HR & OB/NOTES/OB (24-8-26).md",
+    "playbook/1st . angel from heaven.md",
+    "Play Book.md",
+    "ISMS/PGDM FY ( TREAM 1)/Excel training/NOTES/3rd lecture.md",
+    "ISMS/PGDM FY ( TREAM 1)/Account/NOTES/Accounting Syllabus.md",
+    "ISMS/PGDM FY ( TREAM 1)/business analysis/NOTES/25-08-2026 B.A..md",
+    "Social personaliti/randome content/blinkit notifications.md",
+    "Social personaliti/educational content/CR card no. formation.md",
+    "Social personaliti/indian educational systeam/part 1 script.md",
+    "Social personaliti/randome content/stand up script.md",
+    "ISMS/PGDM FY ( TREAM 1)/marketing/AI notes/Presentation_Script.md",
+    "www.gogle.com.md",
+    "Untitled.canvas",
+    "ISMS/Untitled.canvas"
+  ]
+}

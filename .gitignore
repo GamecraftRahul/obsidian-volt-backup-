@@ -1,15 +1,14 @@
-# Obsidian temporary workspace files
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/cache/
+# Obsidian trash
+.trash/
 
-# Windows
+# Microsoft Office temporary/lock files
+~$*.doc
+~$*.docx
+~$*.xls
+~$*.xlsx
+~$*.ppt
+~$*.pptx
+
+# Windows system files
 Thumbs.db
 desktop.ini
-
-# macOS
-.DS_Store
-
-# Temporary files
-*.tmp
-*.temp
