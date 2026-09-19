@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ef80fc9c53f29291",
+        "id": "a2c46f2bdc9493da",
         "type": "tabs",
         "children": [
           {
-            "id": "36f4e86401992d04",
+            "id": "319ef7ca6e89939a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ISMS/PGDM FY ( TREAM 1)/HR & OB/CLG SOURCE/MF&OB_Unit I Intro to Management.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "MF&OB_Unit I Intro to Management"
+              "type": "hearth-home-view",
+              "state": {},
+              "icon": "hearth-crystal",
+              "title": "Home"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "da83195fdc5655fe",
@@ -214,8 +211,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "36f4e86401992d04",
+  "active": "319ef7ca6e89939a",
   "lastOpenFiles": [
+    "quick notes/Part time job sides.md",
+    "quick notes/certifies i can do.md",
+    "quick notes/movies to watch.md",
+    "ISMS/PGDM FY ( TREAM 1)/Account/NOTES/Accounting Syllabus.md",
+    "Untitled 1.md",
+    "quick notes/income source.md",
+    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/~$Basic Concept.pptx",
+    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/Format Cost Sheet.jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/Chapter 2 numericals.pdf",
+    "ISMS/PGDM FY ( TREAM 1)/Account/WhatsApp Image 2026-08-26 at 7.16.16 PM.jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/Account/WhatsApp Image 2026-08-26 at 7.16.15 PM.jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/Problem 1.pdf",
+    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/Problem 1 solution.pdf",
     "ISMS/PGDM FY ( TREAM 1)/HR & OB/CLG SOURCE/MF&OB_Unit I Intro to Management.pdf",
     "ISMS/PGDM FY ( TREAM 1)/HR & OB/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.39.57 AM (2).jpeg",
     "ISMS/PGDM FY ( TREAM 1)/HR & OB/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.39.57 AM (1).jpeg",
@@ -231,19 +241,12 @@
     "ISMS/PGDM FY ( TREAM 1)/marketing/CLG SOURCE/~$POM U-1.pptx",
     "ISMS/PGDM FY ( TREAM 1)/Excel training/NOTES/3rd lecture.md",
     "ISMS/PGDM FY ( TREAM 1)/business analysis/CLG source and practice/1BDD2000",
-    "ISMS/PGDM FY ( TREAM 1)/business analysis/CLG source and practice/AE1A2000",
-    "ISMS/PGDM FY ( TREAM 1)/Excel training/~$Excell 101.xlsx",
-    "ISMS/PGDM FY ( TREAM 1)/business analysis/CLG source and practice/~$teaching.xlsx",
-    "ISMS/PGDM FY ( TREAM 1)/statistic/CLG SOURCE/~$2 A.docx",
     "1st professional trip/trip to beglare professionally.md",
     "ISMS/PGDM FY ( TREAM 1)/statistic/CLG SOURCE/mean median mode formulas.jpeg",
     "ISMS/PGDM FY ( TREAM 1)/marketing/NOTES/1st marketing class exam.md",
     "ISMS/PGDM FY ( TREAM 1)/marketing/CLG SOURCE/WhatsApp Image 2026-08-14 at 7.57.15 AM (1).jpeg",
     "ISMS/PGDM FY ( TREAM 1)/marketing/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.39.58 AM.jpeg",
     "ISMS/PGDM FY ( TREAM 1)/marketing/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.39.56 AM (2).jpeg",
-    "ISMS/PGDM FY ( TREAM 1)/marketing/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.39.56 AM.jpeg",
-    "ISMS/PGDM FY ( TREAM 1)/marketing/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.39.55 AM (3).jpeg",
-    "ISMS/PGDM FY ( TREAM 1)/marketing/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.39.55 AM (2).jpeg",
     "ISMS/PGDM FY ( TREAM 1)/marketing/NOTES/Marketing Syllabus.md",
     "ISMS/PGDM FY ( TREAM 1)/statistic/NOTES/statistics 101.md",
     "ISMS/PGDM FY ( TREAM 1)/statistic/NOTES/4th unit.md",
@@ -255,12 +258,7 @@
     "ISMS/PGDM FY ( TREAM 1)/business analysis/NOTES/business analysis Ch1.md",
     "playbook/1st . angel from heaven.md",
     "Play Book.md",
-    "ISMS/PGDM FY ( TREAM 1)/Account/NOTES/Accounting Syllabus.md",
     "ISMS/PGDM FY ( TREAM 1)/business analysis/NOTES/25-08-2026 B.A..md",
-    "Social personaliti/randome content/blinkit notifications.md",
-    "Social personaliti/educational content/CR card no. formation.md",
-    "Social personaliti/indian educational systeam/part 1 script.md",
-    "Social personaliti/randome content/stand up script.md",
     "Untitled.canvas",
     "ISMS/Untitled.canvas"
   ]
