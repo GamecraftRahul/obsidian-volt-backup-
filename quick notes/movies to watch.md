@@ -48,4 +48,9 @@
 48) Wedding Daze
 49) To Every You I've Loved Before -> To Me, the One Who Loved You
 50) rush houre
-51) 
+51) The Devil Wears Prada
+52) 12 Angry man 
+53) Hidden Figures
+54) Remember the titans
+55) Office space
+56) Erin Brockovich 

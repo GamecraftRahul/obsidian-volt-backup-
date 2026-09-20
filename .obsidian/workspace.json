@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a2c46f2bdc9493da",
+        "id": "72864e584b384564",
         "type": "tabs",
         "children": [
           {
-            "id": "319ef7ca6e89939a",
+            "id": "397146ce9bf8699b",
             "type": "leaf",
             "state": {
-              "type": "hearth-home-view",
-              "state": {},
-              "icon": "hearth-crystal",
-              "title": "Home"
+              "type": "image",
+              "state": {
+                "file": "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/WhatsApp Image 2026-08-26 at 7.16.15 PM.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "WhatsApp Image 2026-08-26 at 7.16.15 PM"
             }
           }
         ]
@@ -211,42 +213,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "319ef7ca6e89939a",
+  "active": "397146ce9bf8699b",
   "lastOpenFiles": [
+    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/WhatsApp Image 2026-08-26 at 7.16.16 PM.jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/WhatsApp Image 2026-08-26 at 7.16.15 PM.jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/WhatsApp Image 2026-08-14 at 7.57.16 AM (1).jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/WhatsApp Image 2026-08-14 at 7.57.16 AM.jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/WhatsApp Image 2026-08-14 at 7.57.12 AM (3).jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.40.48 AM (1).jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.40.48 AM.jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.40.47 AM.jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.40.46 AM (1).jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.40.46 AM.jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.40.45 AM (3).jpeg",
+    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/Problem 1 solution.pdf",
+    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/Problem 1.pdf",
+    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/Chapter 2 numericals.pdf",
+    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/~$PPT-MA Chapter 1-1.pptx",
+    "ISMS/PGDM FY ( TREAM 1)/Account/NOTES/Accounting Syllabus.md",
+    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/~$tes chapter 1.docx",
+    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/~$Basic Concept.pptx",
+    "quick notes/movies to watch.md",
+    "ISMS/PGDM FY ( TREAM 1)/Excel training/NOTES/2nd lecture Excel.md",
+    "Recording 20260920134247.m4a",
+    "Social personaliti/educational content/CR card no. formation.md",
+    "ISMS/PGDM FY ( TREAM 1)/Excel training/NOTES/4th lecture Excel.md",
+    "202609201342.md",
     "quick notes/Part time job sides.md",
     "quick notes/certifies i can do.md",
-    "quick notes/movies to watch.md",
-    "ISMS/PGDM FY ( TREAM 1)/Account/NOTES/Accounting Syllabus.md",
     "Untitled 1.md",
     "quick notes/income source.md",
-    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/~$Basic Concept.pptx",
-    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/Format Cost Sheet.jpeg",
-    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/Chapter 2 numericals.pdf",
-    "ISMS/PGDM FY ( TREAM 1)/Account/WhatsApp Image 2026-08-26 at 7.16.16 PM.jpeg",
-    "ISMS/PGDM FY ( TREAM 1)/Account/WhatsApp Image 2026-08-26 at 7.16.15 PM.jpeg",
-    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/Problem 1.pdf",
-    "ISMS/PGDM FY ( TREAM 1)/Account/CLG SOURCE/Problem 1 solution.pdf",
     "ISMS/PGDM FY ( TREAM 1)/HR & OB/CLG SOURCE/MF&OB_Unit I Intro to Management.pdf",
-    "ISMS/PGDM FY ( TREAM 1)/HR & OB/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.39.57 AM (2).jpeg",
-    "ISMS/PGDM FY ( TREAM 1)/HR & OB/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.39.57 AM (1).jpeg",
-    "ISMS/PGDM FY ( TREAM 1)/HR & OB/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.39.57 AM.jpeg",
     "ISMS/PGDM FY ( TREAM 1)/HR & OB/NOTES/OB 1-09-26.md",
     "ISMS/PGDM FY ( TREAM 1)/HR & OB/NOTES/OB (24-8-26).md",
     "ISMS/PGDM FY ( TREAM 1)/Excel training/NOTES/5th lecture excel.md",
     "ISMS/PGDM FY ( TREAM 1)/Excel training/CLG SOURCE/36A14000",
-    "ISMS/PGDM FY ( TREAM 1)/Excel training/NOTES/4th lecture Excel.md",
-    "ISMS/PGDM FY ( TREAM 1)/Excel training/NOTES/2nd lecture Excel.md",
     "ISMS/PGDM FY ( TREAM 1)/Excel training/CLG SOURCE/~$practical pratice.xlsx",
-    "ISMS/PGDM FY ( TREAM 1)/Excel training/CLG SOURCE/~$practical pratice.pptx",
-    "ISMS/PGDM FY ( TREAM 1)/marketing/CLG SOURCE/~$POM U-1.pptx",
     "ISMS/PGDM FY ( TREAM 1)/Excel training/NOTES/3rd lecture.md",
-    "ISMS/PGDM FY ( TREAM 1)/business analysis/CLG source and practice/1BDD2000",
     "1st professional trip/trip to beglare professionally.md",
-    "ISMS/PGDM FY ( TREAM 1)/statistic/CLG SOURCE/mean median mode formulas.jpeg",
     "ISMS/PGDM FY ( TREAM 1)/marketing/NOTES/1st marketing class exam.md",
-    "ISMS/PGDM FY ( TREAM 1)/marketing/CLG SOURCE/WhatsApp Image 2026-08-14 at 7.57.15 AM (1).jpeg",
-    "ISMS/PGDM FY ( TREAM 1)/marketing/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.39.58 AM.jpeg",
-    "ISMS/PGDM FY ( TREAM 1)/marketing/CLG SOURCE/WhatsApp Image 2026-08-13 at 8.39.56 AM (2).jpeg",
     "ISMS/PGDM FY ( TREAM 1)/marketing/NOTES/Marketing Syllabus.md",
     "ISMS/PGDM FY ( TREAM 1)/statistic/NOTES/statistics 101.md",
     "ISMS/PGDM FY ( TREAM 1)/statistic/NOTES/4th unit.md",
@@ -256,9 +261,6 @@
     "playbook/3rd . wing man.md",
     "playbook/2nd . i am Ginny.md",
     "ISMS/PGDM FY ( TREAM 1)/business analysis/NOTES/business analysis Ch1.md",
-    "playbook/1st . angel from heaven.md",
-    "Play Book.md",
-    "ISMS/PGDM FY ( TREAM 1)/business analysis/NOTES/25-08-2026 B.A..md",
     "Untitled.canvas",
     "ISMS/Untitled.canvas"
   ]
